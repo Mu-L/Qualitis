@@ -163,7 +163,7 @@ public class Filter2TokenFilter implements Filter {
 
     public static void main(String[] args) throws UnsupportedEncodingException {
         String result = hashEncrypt(hashEncrypt("linkis_id" + "98032" + "1718424156436",
-                "SHA-256", true, true, 32, '0') + "***REMOVED***", "SHA-256",
+                "SHA-256", true, true, 32, '0') + "a33693de51", "SHA-256",
                 true, true, 32, '0');
         System.out.println("Result: " + result);
     }

@@ -51,7 +51,7 @@ public class QualitisRefDeletionOperation extends QualitisDevelopmentOperation<R
     private static final Logger LOGGER = LoggerFactory.getLogger(QualitisRefDeletionOperation.class);
 
     private static String appId = "linkis_id";
-    private static String appToken = "***REMOVED***";
+    private static String appToken = "a33693de51";
 
     @Override
     protected String getAppConnName() {
