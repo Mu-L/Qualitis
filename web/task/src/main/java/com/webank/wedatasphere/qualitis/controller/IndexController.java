@@ -101,7 +101,6 @@ public class IndexController {
 
   /**
    * 当日发送给当前登录用户的告警信息
-   * API:***REMOVED***
    *
    * @return IndexAlarmTodayResponse
    */
@@ -123,7 +122,6 @@ public class IndexController {
 
   /**
    * 指定时间段发送给当前登录用户的不同级别告警数
-   * API:***REMOVED***
    *
    * @param request 查询参数
    * @return json结果
